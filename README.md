@@ -174,7 +174,7 @@ Então:
 
 ## 👩‍💻 Autora
 
-Paolla Paula Veronez
+Paolla Paula Veronez,estudante de desolvolvimento de sistemas
 
 ---
 
